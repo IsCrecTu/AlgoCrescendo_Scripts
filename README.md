@@ -1,8 +1,13 @@
 # AlgoCrescendo Scripts
 Just some python scripts for use with the Algorand ASA Crescendo
 
+Requirements:
 
-crescendo_holders.py 
+- Python
+- Algorand Python SDK: https://github.com/algorand/py-algorand-sdk
+
+
+# Crescendo_Holders.py
 This one outputs similar to the following:
 
     Wallets with >1 CSRD: 2961
