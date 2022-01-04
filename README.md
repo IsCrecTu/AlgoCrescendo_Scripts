@@ -22,4 +22,4 @@ This one checks for transactions of Exactly 1 CRSD to the designated voting wall
 
 Example output:
 
-    `RKLSJDFKLJSDFSFROZUZ6FAVYPF53HGUZDSKLKJLSDFU,99999999,1.Yes 2.No 3.No`
+    RKLSJDFKLJSDFSFROZUZ6FAVYPF53HGUZDSKLKJLSDFU,99999999,1.Yes 2.No 3.No
