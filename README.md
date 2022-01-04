@@ -16,3 +16,6 @@ This one outputs similar to the following:
     Wallets with >100,000 CSRD: 238
     Wallets with >1,000,000 CSRD: 74
     Wallets with >10,000,000 CSRD: 21
+
+# Crescendo_CheckVot.py
+This one checks for transactions of Exactly 1 CRSD to the designated voting wallet and then outputs the wallets address, current CRSD balance, and decrypted note field.
