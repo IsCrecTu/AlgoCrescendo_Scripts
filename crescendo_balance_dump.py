@@ -4,7 +4,7 @@ from datetime import datetime
 myindexer = indexer.IndexerClient(indexer_token="", indexer_address="https://algoindexer.algoexplorerapi.io", headers={'User-Agent': 'DoYouLoveMe?'})
 
 today = datetime.now()
-f = open("./crescendo_balance_before_vote_" + str(today.strftime("%Y-%m-%d_%H:%M")) + ".csv", "w")
+f = open("./crescendo_balance_" + str(today.strftime("%Y-%m-%d_%H:%M")) + ".csv", "w")
 f.write("Wallet Address,CRSD Balance,Last Updated:" + str(today) + '\n')
 
 nexttoken = ""
