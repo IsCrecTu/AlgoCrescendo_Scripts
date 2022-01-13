@@ -23,3 +23,11 @@ This one checks for transactions of Exactly 1 CRSD to the designated voting wall
 Example output:
 
     RKLSJDFKLJSDFSFROZUZ6FAVYPF53HGUZDSKLKJLSDFU,99999999,1.Yes 2.No 3.No
+    
+    
+# Crescendo_Balance_Dump.py
+This one pulls the current CRSD balances of all wallets that have opted in and have at least 1 CRSD and then outputs to a CSV file crescendo_balance_XXXX-XX-XX_XX:XX.csv
+
+Examples file output:
+
+    7HGT7JASDFASD237823894234209ADSFAS12123SADF2VJKM, 99999999
