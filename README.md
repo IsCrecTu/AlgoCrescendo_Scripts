@@ -6,6 +6,19 @@ Requirements:
 - Python
 - Algorand Python SDK: https://github.com/algorand/py-algorand-sdk
 
+# CRSD_Price_Bot_Discord.py
+Requirements:
+
+- Python
+- Tinyman Python SDK: https://github.com/tinymanorg/tinyman-py-sdk
+- Goverfl0w Discord SDK: https://github.com/goverfl0w/interactions.py
+- Discord Bot Token: https://www.writebots.com/discord-bot-token/
+
+Once you have invited the bot to your Discord Server, then all you have to do is type "/crsdprice" in chat and it will respond with the following:
+
+    Tinyman CRSD price:  0.000881 ALGO
+
+
 
 # Crescendo_Holders.py
 This one outputs similar to the following:
